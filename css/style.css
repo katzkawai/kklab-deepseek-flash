@@ -332,6 +332,20 @@ body {
   color: var(--color-primary);
 }
 
+/* ---------- Notice ---------- */
+.notice {
+  max-width: 640px;
+  margin: 0 auto 24px;
+  background: #fff3cd;
+  border: 1px solid #e0c060;
+  border-left: 5px solid #d4a017;
+  color: #6b5410;
+  border-radius: 8px;
+  padding: 12px 16px;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
 /* ---------- Shops ---------- */
 .shop-grid {
   display: grid;
